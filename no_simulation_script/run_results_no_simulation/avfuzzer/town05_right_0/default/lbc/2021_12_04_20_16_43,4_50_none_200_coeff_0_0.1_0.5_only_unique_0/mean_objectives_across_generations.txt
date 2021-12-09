@@ -1,0 +1,200 @@
+{'counter': 4, 'has_run': 4, 'time_elapsed': 12.804116487503052, 'num_of_bugs': 3, 'num_of_unique_bugs': 3, 'num_of_interested_unique_bugs': 3, 'bugcounts and unique bug counts': [0, 3, 0, 3], 'mean_objectives_this_generation': [0.8470034415862738, 0.0, 7499.365384007054, 0.0, 0.0, 0.75], 'current_F': array([[9.99922452e+03],
+       [1.00001836e+04],
+       [9.99995199e+03],
+       [1.48945409e+00]])}0;1;2 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 8, 'has_run': 8, 'time_elapsed': 25.6320641040802, 'num_of_bugs': 7, 'num_of_unique_bugs': 7, 'num_of_interested_unique_bugs': 7, 'bugcounts and unique bug counts': [0, 7, 0, 7], 'mean_objectives_this_generation': [0.8833614870667285, 0.0, 7499.482071223956, 0.0, 0.0, 1.0], 'current_F': array([[1.00000016e+04],
+       [2.03708505e+00],
+       [9.99990844e+03],
+       [9.99951465e+03]])}0;1;2;4;5;6;7 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 12, 'has_run': 12, 'time_elapsed': 38.39622783660889, 'num_of_bugs': 11, 'num_of_unique_bugs': 7, 'num_of_interested_unique_bugs': 7, 'bugcounts and unique bug counts': [0, 11, 0, 7], 'mean_objectives_this_generation': [0.8845570068013114, 0.0, 9999.0, 0.0, 0.0, 1.0], 'current_F': array([[ 9999.5146513 ],
+       [10000.14275058],
+       [ 9999.99604505],
+       [ 9999.8847811 ]])}0;1;4;6;9;10;11 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 16, 'has_run': 16, 'time_elapsed': 51.269681215286255, 'num_of_bugs': 14, 'num_of_unique_bugs': 9, 'num_of_interested_unique_bugs': 9, 'bugcounts and unique bug counts': [1, 13, 1, 8], 'mean_objectives_this_generation': [0.6314772347971888, 0.0, 4999.6335957433985, 6.317746686431434, 0.25, 0.75], 'current_F': array([[ 1.00000728e+04],
+       [ 9.99947977e+03],
+       [ 1.50776907e+00],
+       [-2.52709867e+01]])}15;0;1;4;6;9;10;12;13 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 20, 'has_run': 20, 'time_elapsed': 64.03204798698425, 'num_of_bugs': 16, 'num_of_unique_bugs': 10, 'num_of_interested_unique_bugs': 10, 'bugcounts and unique bug counts': [2, 14, 1, 9], 'mean_objectives_this_generation': [0.6741205309131898, 0.0, 2500.0504756985893, 6.317746686431434, 0.25, 0.5], 'current_F': array([[ 9.99968777e+03],
+       [ 1.73506114e+00],
+       [-2.52709867e+01],
+       [ 1.47555163e+00]])}18;0;1;4;6;9;10;12;13;16 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 24, 'has_run': 24, 'time_elapsed': 76.92339706420898, 'num_of_bugs': 17, 'num_of_unique_bugs': 10, 'num_of_interested_unique_bugs': 10, 'bugcounts and unique bug counts': [3, 14, 1, 9], 'mean_objectives_this_generation': [0.7844937109634874, 0.0, 4999.627907697952, 9.135092082056724, 0.25, 0.25], 'current_F': array([[ 9.99997093e+03],
+       [ 1.47555163e+00],
+       [ 9.99997105e+03],
+       [-3.63082976e+01]])}23;0;1;4;6;9;10;12;13;16 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 28, 'has_run': 28, 'time_elapsed': 89.6906898021698, 'num_of_bugs': 21, 'num_of_unique_bugs': 11, 'num_of_interested_unique_bugs': 11, 'bugcounts and unique bug counts': [5, 16, 1, 10], 'mean_objectives_this_generation': [0.2983079618779366, 0.0, 4999.501782317493, 18.482961336691737, 0.5, 1.0], 'current_F': array([[ -37.39147702],
+       [9999.6690062 ],
+       [9999.29928422],
+       [ -36.30829763]])}27;0;1;6;9;10;12;13;16;25;26 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 32, 'has_run': 32, 'time_elapsed': 102.58137845993042, 'num_of_bugs': 25, 'num_of_unique_bugs': 13, 'num_of_interested_unique_bugs': 13, 'bugcounts and unique bug counts': [7, 18, 2, 11], 'mean_objectives_this_generation': [0.1930977367833513, 0.0, 2499.75, 18.36662941223864, 0.5, 1.0], 'current_F': array([[9999.77239095],
+       [ -36.68274161],
+       [   0.        ],
+       [ -36.78377604]])}29;31;0;1;6;9;10;12;13;16;25;28;30 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 36, 'has_run': 36, 'time_elapsed': 115.57191348075867, 'num_of_bugs': 29, 'num_of_unique_bugs': 13, 'num_of_interested_unique_bugs': 13, 'bugcounts and unique bug counts': [8, 21, 2, 11], 'mean_objectives_this_generation': [0.1930075454318888, 0.0, 2499.75, 9.195944009904924, 0.25, 1.0], 'current_F': array([[ -36.78377604],
+       [9999.77203018],
+       [   0.        ],
+       [   0.        ]])}29;32;0;1;6;9;10;13;16;25;28;34;35 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 40, 'has_run': 40, 'time_elapsed': 128.4490098953247, 'num_of_bugs': 33, 'num_of_unique_bugs': 15, 'num_of_interested_unique_bugs': 15, 'bugcounts and unique bug counts': [9, 24, 2, 13], 'mean_objectives_this_generation': [0.7636096500216224, 0.0, 7499.25, 9.195944009904924, 0.25, 1.0], 'current_F': array([[ 9999.59581729],
+       [  -36.78377604],
+       [10000.43829987],
+       [10000.02032143]])}29;37;0;1;6;9;10;13;16;25;28;35;36;38;39 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 44, 'has_run': 44, 'time_elapsed': 141.46094942092896, 'num_of_bugs': 36, 'num_of_unique_bugs': 13, 'num_of_interested_unique_bugs': 13, 'bugcounts and unique bug counts': [10, 26, 1, 12], 'mean_objectives_this_generation': [0.5893228447491802, 0.0, 4999.63484621792, 9.288986544664803, 0.25, 0.75], 'current_F': array([[-3.69085216e+01],
+       [ 1.50324659e+00],
+       [ 9.99957302e+03],
+       [ 9.99957299e+03]])}40;1;6;9;10;13;16;25;28;35;38;39;43 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 48, 'has_run': 48, 'time_elapsed': 154.36564660072327, 'num_of_bugs': 36, 'num_of_unique_bugs': 13, 'num_of_interested_unique_bugs': 13, 'bugcounts and unique bug counts': [10, 26, 1, 12], 'mean_objectives_this_generation': [1.0336100600161944, 0.0, 7499.357228334602, 0.0, 0.0, 0.0], 'current_F': array([[1.44138145e+00],
+       [1.00000377e+04],
+       [1.00000463e+04],
+       [1.00000380e+04]])}40;1;6;9;10;13;16;25;28;35;38;39;43 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 52, 'has_run': 52, 'time_elapsed': 167.30083680152893, 'num_of_bugs': 36, 'num_of_unique_bugs': 13, 'num_of_interested_unique_bugs': 13, 'bugcounts and unique bug counts': [10, 26, 1, 12], 'mean_objectives_this_generation': [0.9890243561364669, 0.0, 9999.0, 0.0, 0.0, 0.0], 'current_F': array([[10000.00699112],
+       [10000.03861069],
+       [ 9999.97790657],
+       [ 9999.93258905]])}40;1;6;9;10;13;16;25;28;35;38;39;43 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 56, 'has_run': 56, 'time_elapsed': 180.42279839515686, 'num_of_bugs': 40, 'num_of_unique_bugs': 14, 'num_of_interested_unique_bugs': 14, 'bugcounts and unique bug counts': [10, 30, 1, 13], 'mean_objectives_this_generation': [1.119605385701761, 0.0, 9999.0, 0.0, 0.0, 1.0], 'current_F': array([[ 9999.42495846],
+       [10001.16061644],
+       [ 9999.94657967],
+       [ 9999.94626697]])}40;1;6;9;10;13;16;25;28;35;38;39;43;55 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 60, 'has_run': 60, 'time_elapsed': 193.25814652442932, 'num_of_bugs': 44, 'num_of_unique_bugs': 15, 'num_of_interested_unique_bugs': 15, 'bugcounts and unique bug counts': [10, 34, 1, 14], 'mean_objectives_this_generation': [1.209737418948973, 0.0, 9999.0, 0.0, 0.0, 1.0], 'current_F': array([[10001.03044731],
+       [10000.17181778],
+       [10000.21172613],
+       [ 9999.42495846]])}40;1;6;9;10;13;16;25;28;35;38;39;43;56;59 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 64, 'has_run': 64, 'time_elapsed': 206.074693441391, 'num_of_bugs': 48, 'num_of_unique_bugs': 16, 'num_of_interested_unique_bugs': 16, 'bugcounts and unique bug counts': [10, 38, 1, 15], 'mean_objectives_this_generation': [0.9078834270580578, 0.0, 9999.0, 0.0, 0.0, 1.0], 'current_F': array([[ 9999.75022891],
+       [ 9999.79818068],
+       [10000.21295009],
+       [ 9999.87017402]])}40;1;6;9;10;13;16;25;28;35;38;39;43;56;61;63 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 68, 'has_run': 68, 'time_elapsed': 218.8917362689972, 'num_of_bugs': 52, 'num_of_unique_bugs': 16, 'num_of_interested_unique_bugs': 16, 'bugcounts and unique bug counts': [10, 42, 1, 15], 'mean_objectives_this_generation': [0.8983286557172221, 0.0, 9999.0, 0.0, 0.0, 1.0], 'current_F': array([[ 9999.75022891],
+       [ 9999.84568612],
+       [ 9999.75022891],
+       [10000.24717068]])}40;1;6;9;10;13;16;25;28;35;38;39;43;56;66;67 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 72, 'has_run': 72, 'time_elapsed': 231.78863668441772, 'num_of_bugs': 56, 'num_of_unique_bugs': 15, 'num_of_interested_unique_bugs': 15, 'bugcounts and unique bug counts': [10, 46, 1, 14], 'mean_objectives_this_generation': [0.7104485575960616, 0.0, 9999.0, 0.0, 0.0, 1.0], 'current_F': array([[9999.75022891],
+       [9999.63899672],
+       [9999.82132221],
+       [9999.63124639]])}40;1;6;9;10;13;16;25;28;35;38;39;43;56;71 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 76, 'has_run': 76, 'time_elapsed': 244.65350103378296, 'num_of_bugs': 60, 'num_of_unique_bugs': 15, 'num_of_interested_unique_bugs': 15, 'bugcounts and unique bug counts': [10, 50, 1, 14], 'mean_objectives_this_generation': [0.7338452104905183, 0.0, 9999.0, 0.0, 0.0, 1.0], 'current_F': array([[ 9999.66244058],
+       [ 9999.806391  ],
+       [ 9999.30835906],
+       [10000.15819021]])}40;1;9;10;13;16;25;28;35;38;39;43;56;73;75 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 80, 'has_run': 80, 'time_elapsed': 257.63498854637146, 'num_of_bugs': 64, 'num_of_unique_bugs': 16, 'num_of_interested_unique_bugs': 16, 'bugcounts and unique bug counts': [12, 52, 2, 14], 'mean_objectives_this_generation': [0.1164134669762835, 0.0, 4999.5, 18.518382916227473, 0.5, 1.0], 'current_F': array([[9999.43916142],
+       [9999.02649245],
+       [ -37.39147702],
+       [ -36.68205465]])}40;79;1;9;10;13;16;25;35;38;39;43;56;73;75;77 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 84, 'has_run': 84, 'time_elapsed': 270.6618800163269, 'num_of_bugs': 68, 'num_of_unique_bugs': 17, 'num_of_interested_unique_bugs': 17, 'bugcounts and unique bug counts': [14, 54, 2, 15], 'mean_objectives_this_generation': [0.07469942875587395, 0.0, 4999.5, 23.569249794710757, 0.5, 1.0], 'current_F': array([[9999.26287956],
+       [ -56.88552216],
+       [ -37.39147702],
+       [9999.03591815]])}40;82;1;9;10;13;16;25;35;38;39;43;56;73;75;80;83 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 88, 'has_run': 88, 'time_elapsed': 283.56438660621643, 'num_of_bugs': 72, 'num_of_unique_bugs': 19, 'num_of_interested_unique_bugs': 19, 'bugcounts and unique bug counts': [16, 56, 3, 16], 'mean_objectives_this_generation': [0.3861954735667026, 0.0, 4999.5, 20.897888032743833, 0.5, 1.0], 'current_F': array([[ -46.67645186],
+       [9999.77239095],
+       [9999.77239095],
+       [ -36.91510027]])}40;84;87;1;9;10;13;16;25;35;38;39;43;56;73;75;80;83;86 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 92, 'has_run': 92, 'time_elapsed': 296.34469628334045, 'num_of_bugs': 76, 'num_of_unique_bugs': 19, 'num_of_interested_unique_bugs': 19, 'bugcounts and unique bug counts': [17, 59, 3, 16], 'mean_objectives_this_generation': [0.44799089181729457, 0.0, 4999.505414527631, 11.668867500516901, 0.25, 1.0], 'current_F': array([[ 9.99973381e+03],
+       [-4.66754700e+01],
+       [ 9.99977239e+03],
+       [ 3.07422478e-01]])}40;87;89;1;9;10;13;16;25;38;39;43;56;73;75;80;83;88;91 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 96, 'has_run': 96, 'time_elapsed': 309.2900996208191, 'num_of_bugs': 80, 'num_of_unique_bugs': 21, 'num_of_interested_unique_bugs': 21, 'bugcounts and unique bug counts': [19, 61, 5, 16], 'mean_objectives_this_generation': [0.3509782789130529, 0.0, 2499.7538789661467, 28.605804077950005, 0.5, 1.0], 'current_F': array([[ -66.62394767],
+       [   0.        ],
+       [ -47.152718  ],
+       [9999.77287834]])}40;87;89;92;94;1;9;10;13;16;25;38;39;43;56;73;75;80;88;93;95 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 100, 'has_run': 100, 'time_elapsed': 322.2041344642639, 'num_of_bugs': 84, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [20, 64, 5, 17], 'mean_objectives_this_generation': [0.6246263569792294, 0.0, 7499.253878966147, 16.81762457775884, 0.25, 1.0], 'current_F': array([[9999.62228528],
+       [ -66.62394767],
+       [9999.32154387],
+       [9999.92364151]])}40;87;89;94;97;1;9;13;16;25;38;39;43;56;73;80;88;93;95;96;98;99 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 104, 'has_run': 104, 'time_elapsed': 335.1135506629944, 'num_of_bugs': 88, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [23, 65, 5, 17], 'mean_objectives_this_generation': [0.275144966991277, 0.0, 0.010763128205933274, 42.79374513813231, 0.75, 1.0], 'current_F': array([[  0.49708174],
+       [-37.39147702],
+       [-66.62394767],
+       [-66.51300522]])}40;89;94;101;103;1;9;13;16;25;38;39;43;56;73;80;93;95;96;98;99;100 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 108, 'has_run': 108, 'time_elapsed': 347.95857334136963, 'num_of_bugs': 92, 'num_of_unique_bugs': 19, 'num_of_interested_unique_bugs': 19, 'bugcounts and unique bug counts': [26, 66, 3, 16], 'mean_objectives_this_generation': [0.15432078683718786, 0.0, 2499.75, 39.58791538881867, 0.75, 1.0], 'current_F': array([[ -45.73023308],
+       [9999.61728315],
+       [ -66.39570678],
+       [ -46.2257217 ]])}40;101;107;1;9;13;16;25;38;39;43;56;73;95;96;98;99;100;105 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 112, 'has_run': 112, 'time_elapsed': 360.92186403274536, 'num_of_bugs': 96, 'num_of_unique_bugs': 18, 'num_of_interested_unique_bugs': 18, 'bugcounts and unique bug counts': [28, 68, 4, 14], 'mean_objectives_this_generation': [0.1190841661537484, 0.0, 2499.75, 25.740135038371804, 0.5, 1.0], 'current_F': array([[   0.        ],
+       [9999.47633666],
+       [ -56.527277  ],
+       [ -46.43326315]])}40;101;110;111;1;9;13;16;25;38;39;43;56;73;95;98;99;109 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 116, 'has_run': 116, 'time_elapsed': 373.79350113868713, 'num_of_bugs': 100, 'num_of_unique_bugs': 20, 'num_of_interested_unique_bugs': 20, 'bugcounts and unique bug counts': [32, 68, 6, 14], 'mean_objectives_this_generation': [0.0, 0.0, 0.0, 58.996201552359224, 1.0, 1.0], 'current_F': array([[-55.73707854],
+       [-57.02922484],
+       [-66.69080236],
+       [-56.52770047]])}40;101;112;113;114;115;1;9;13;16;25;38;39;43;56;73;95;98;99;109 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 120, 'has_run': 120, 'time_elapsed': 386.66091799736023, 'num_of_bugs': 104, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [33, 71, 6, 16], 'mean_objectives_this_generation': [0.2495410557431813, 0.0, 4999.504203344997, 11.668585738843973, 0.25, 1.0], 'current_F': array([[-4.66743430e+01],
+       [ 9.99956742e+03],
+       [ 5.79620299e-02],
+       [ 9.99938960e+03]])}101;112;113;114;115;116;1;9;13;16;25;38;39;43;56;73;95;98;99;117;118;119 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 124, 'has_run': 124, 'time_elapsed': 399.5266795158386, 'num_of_bugs': 108, 'num_of_unique_bugs': 21, 'num_of_interested_unique_bugs': 21, 'bugcounts and unique bug counts': [34, 74, 6, 15], 'mean_objectives_this_generation': [0.27800623331780505, 0.0, 4999.504203344998, 16.67270058966046, 0.25, 1.0], 'current_F': array([[-6.66908024e+01],
+       [ 9.99951686e+03],
+       [ 9.99955402e+03],
+       [ 5.79620299e-02]])}101;112;113;115;116;120;1;9;13;16;25;38;39;43;56;73;95;99;119;122;123 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 128, 'has_run': 128, 'time_elapsed': 412.3147304058075, 'num_of_bugs': 112, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [35, 77, 6, 16], 'mean_objectives_this_generation': [0.16412102221400426, 0.0, 0.003851186197981575, 16.67270058966046, 0.25, 1.0], 'current_F': array([[  0.        ],
+       [-66.69080236],
+       [  0.        ],
+       [  0.67188883]])}101;112;113;115;116;125;1;9;13;16;25;38;39;43;56;73;95;99;119;122;126;127 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 132, 'has_run': 132, 'time_elapsed': 425.3001067638397, 'num_of_bugs': 116, 'num_of_unique_bugs': 23, 'num_of_interested_unique_bugs': 23, 'bugcounts and unique bug counts': [38, 78, 6, 17], 'mean_objectives_this_generation': [0.0389049207318971, 0.0, 2499.75, 36.70098997666065, 0.75, 1.0], 'current_F': array([[ -23.22319804],
+       [9999.15561968],
+       [ -66.69080236],
+       [ -56.88995951]])}101;112;113;115;130;131;1;9;13;16;25;38;39;43;56;73;95;99;119;122;126;127;129 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 136, 'has_run': 136, 'time_elapsed': 438.23381423950195, 'num_of_bugs': 120, 'num_of_unique_bugs': 25, 'num_of_interested_unique_bugs': 25, 'bugcounts and unique bug counts': [40, 80, 7, 18], 'mean_objectives_this_generation': [0.17815610928485415, 0.0, 4999.5, 22.991209605293356, 0.5, 1.0], 'current_F': array([[9999.56844163],
+       [9999.14418281],
+       [ -66.69080236],
+       [ -25.27403606]])}101;112;113;115;131;134;135;1;9;13;16;25;38;39;43;56;73;95;99;119;122;126;129;132;133 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 140, 'has_run': 140, 'time_elapsed': 451.25250363349915, 'num_of_bugs': 124, 'num_of_unique_bugs': 26, 'num_of_interested_unique_bugs': 26, 'bugcounts and unique bug counts': [43, 81, 8, 18], 'mean_objectives_this_generation': [0.16412102221400426, 0.0, 0.003851186197981575, 17.06959024822024, 0.75, 0.75], 'current_F': array([[-25.27350239],
+       [  0.67188883],
+       [-36.68162805],
+       [ -6.32323056]])}101;113;115;131;134;136;138;139;1;9;13;16;25;38;39;43;56;73;95;99;119;122;126;129;132;137 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 144, 'has_run': 144, 'time_elapsed': 464.1039569377899, 'num_of_bugs': 128, 'num_of_unique_bugs': 27, 'num_of_interested_unique_bugs': 27, 'bugcounts and unique bug counts': [44, 84, 8, 19], 'mean_objectives_this_generation': [1.0829085613266836, 0.0, 4999.73168555525, 6.317746686431434, 0.25, 1.0], 'current_F': array([[ 9.99949823e+03],
+       [-2.52709867e+01],
+       [ 9.99994514e+03],
+       [ 3.81500846e+00]])}101;113;115;131;134;138;139;141;1;9;13;25;38;39;43;56;73;95;99;119;122;126;129;132;137;140;143 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 148, 'has_run': 148, 'time_elapsed': 477.0081067085266, 'num_of_bugs': 132, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [44, 88, 8, 14], 'mean_objectives_this_generation': [0.3981793955392833, 0.0, 7499.254203344997, 0.0, 0.0, 1.0], 'current_F': array([[9.99934851e+03],
+       [5.79620299e-02],
+       [9.99968620e+03],
+       [9.99951686e+03]])}101;113;115;131;134;138;139;141;1;9;13;25;38;39;43;56;95;99;129;140;143;147 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 152, 'has_run': 152, 'time_elapsed': 489.889839887619, 'num_of_bugs': 136, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [44, 92, 8, 14], 'mean_objectives_this_generation': [0.354449056992163, 0.0, 4999.508406689995, 0.0, 0.0, 1.0], 'current_F': array([[9.99998699e+03],
+       [5.79620299e-02],
+       [9.99934851e+03],
+       [5.79620299e-02]])}101;113;115;131;134;138;139;141;1;9;13;25;38;39;43;56;95;99;129;140;143;151 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 156, 'has_run': 156, 'time_elapsed': 502.9458751678467, 'num_of_bugs': 140, 'num_of_unique_bugs': 23, 'num_of_interested_unique_bugs': 23, 'bugcounts and unique bug counts': [45, 95, 9, 14], 'mean_objectives_this_generation': [0.03086148741266835, 0.0, 0.012610034993233127, 11.580847735882603, 0.25, 1.0], 'current_F': array([[  0.05796203],
+       [  0.05796203],
+       [  0.05796203],
+       [-46.32339094]])}101;113;115;131;134;138;139;141;155;1;9;13;25;38;39;43;56;95;99;129;140;143;154 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 160, 'has_run': 160, 'time_elapsed': 515.8410391807556, 'num_of_bugs': 144, 'num_of_unique_bugs': 25, 'num_of_interested_unique_bugs': 25, 'bugcounts and unique bug counts': [45, 99, 9, 16], 'mean_objectives_this_generation': [0.4046693310039179, 0.0, 2499.9227888550586, 0.0, 0.0, 1.0], 'current_F': array([[6.49290503e-01],
+       [1.10965292e+00],
+       [9.99955089e+03],
+       [0.00000000e+00]])}101;113;115;131;134;138;139;141;155;1;9;13;25;38;39;43;56;95;99;129;140;143;157;158;159 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 164, 'has_run': 164, 'time_elapsed': 528.7382447719574, 'num_of_bugs': 148, 'num_of_unique_bugs': 21, 'num_of_interested_unique_bugs': 21, 'bugcounts and unique bug counts': [47, 101, 6, 15], 'mean_objectives_this_generation': [0.13654462251101585, 0.0, 0.007055676105236625, 23.3973929594534, 0.5, 1.0], 'current_F': array([[-46.43709645],
+       [-47.15247539],
+       [  0.51643916],
+       [  0.05796203]])}113;115;138;139;141;161;1;9;13;25;38;39;43;56;95;99;129;140;143;157;163 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 168, 'has_run': 168, 'time_elapsed': 541.6483228206635, 'num_of_bugs': 152, 'num_of_unique_bugs': 21, 'num_of_interested_unique_bugs': 21, 'bugcounts and unique bug counts': [50, 102, 6, 15], 'mean_objectives_this_generation': [0.25717521171052315, 0.0, 0.005687475109688275, 34.76646486151229, 0.75, 1.0], 'current_F': array([[-45.7895063 ],
+       [-46.43709645],
+       [  0.6492905 ],
+       [-46.43709645]])}113;115;138;139;141;167;1;9;13;25;38;39;43;56;95;99;129;140;143;157;166 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 172, 'has_run': 172, 'time_elapsed': 554.4157874584198, 'num_of_bugs': 156, 'num_of_unique_bugs': 21, 'num_of_interested_unique_bugs': 21, 'bugcounts and unique bug counts': [54, 102, 6, 15], 'mean_objectives_this_generation': [0.0, 0.0, 0.0, 44.05595911233263, 1.0, 1.0], 'current_F': array([[-36.19588744],
+       [-46.43709645],
+       [-47.1537561 ],
+       [-46.43709645]])}113;115;138;139;141;171;1;9;13;25;38;39;43;56;95;99;129;140;143;157;166 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 176, 'has_run': 176, 'time_elapsed': 567.2710766792297, 'num_of_bugs': 160, 'num_of_unique_bugs': 21, 'num_of_interested_unique_bugs': 21, 'bugcounts and unique bug counts': [56, 104, 6, 15], 'mean_objectives_this_generation': [0.10114014584812578, 0.0, 0.013127094003079424, 23.218548225337, 0.5, 1.0], 'current_F': array([[  0.2181425 ],
+       [-46.43709645],
+       [  0.23892646],
+       [-46.43709645]])}113;115;138;139;141;175;1;9;13;25;38;39;43;56;95;99;129;140;143;157;174 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 180, 'has_run': 180, 'time_elapsed': 580.2063417434692, 'num_of_bugs': 164, 'num_of_unique_bugs': 21, 'num_of_interested_unique_bugs': 21, 'bugcounts and unique bug counts': [60, 104, 6, 15], 'mean_objectives_this_generation': [0.0, 0.0, 0.0, 46.437096450674, 1.0, 1.0], 'current_F': array([[-46.43709645],
+       [-46.43709645],
+       [-46.43709645],
+       [-46.43709645]])}113;115;138;139;141;179;1;9;13;25;38;39;43;56;95;99;129;140;143;157;174 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 184, 'has_run': 184, 'time_elapsed': 593.065277338028, 'num_of_bugs': 165, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [61, 104, 7, 15], 'mean_objectives_this_generation': [0.886361725568547, 0.0, 4999.794239119594, 0.8706446348234698, 0.25, 0.0], 'current_F': array([[-3.48257854e+00],
+       [ 2.45381538e+00],
+       [ 9.99999145e+03],
+       [ 1.00002771e+04]])}113;115;138;139;141;179;180;1;9;13;25;38;39;43;56;95;99;129;140;143;157;174 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 188, 'has_run': 188, 'time_elapsed': 606.0344126224518, 'num_of_bugs': 167, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [62, 105, 7, 15], 'mean_objectives_this_generation': [0.7746159453871009, 0.0, 4999.748035043626, 0.8706446348234698, 0.25, 0.25], 'current_F': array([[-3.48257854e+00],
+       [ 1.00001090e+04],
+       [ 9.99999031e+03],
+       [ 1.99128573e+00]])}113;115;138;139;141;179;184;9;13;25;38;39;43;56;95;99;129;140;143;157;174;186 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 192, 'has_run': 192, 'time_elapsed': 618.9441387653351, 'num_of_bugs': 169, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [64, 105, 7, 15], 'mean_objectives_this_generation': [0.5001106051423729, 0.0, 0.3644700211016163, 1.5936068913826436, 0.5, 0.0], 'current_F': array([[-2.89184903],
+       [-3.48257854],
+       [ 1.46703678],
+       [ 1.99128573]])}113;115;138;139;141;179;189;9;13;25;38;39;43;56;95;99;129;140;143;157;174;186 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 196, 'has_run': 196, 'time_elapsed': 631.7778918743134, 'num_of_bugs': 173, 'num_of_unique_bugs': 22, 'num_of_interested_unique_bugs': 22, 'bugcounts and unique bug counts': [67, 106, 7, 15], 'mean_objectives_this_generation': [0.26813691198938494, 0.0, 2499.75, 2.1688867696775214, 0.75, 0.25], 'current_F': array([[-2.89184903e+00],
+       [-2.89184903e+00],
+       [-2.89184903e+00],
+       [ 1.00000725e+04]])}113;115;138;139;141;179;194;9;13;25;39;43;56;95;99;129;140;143;157;174;186;195 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 200, 'has_run': 200, 'time_elapsed': 644.7755279541016, 'num_of_bugs': 176, 'num_of_unique_bugs': 24, 'num_of_interested_unique_bugs': 24, 'bugcounts and unique bug counts': [68, 108, 7, 17], 'mean_objectives_this_generation': [0.6978604504741831, 0.0, 4999.529359381624, 0.7463108233820928, 0.25, 0.5], 'current_F': array([[ 1.00002474e+04],
+       [ 1.00000263e+04],
+       [-2.98524329e+00],
+       [ 6.35179819e-01]])}113;115;138;139;141;179;198;9;13;25;39;43;56;95;99;129;140;143;157;174;186;195;196;199 objective_weights : [ 1.  1.  1. -1.  0.  0.]

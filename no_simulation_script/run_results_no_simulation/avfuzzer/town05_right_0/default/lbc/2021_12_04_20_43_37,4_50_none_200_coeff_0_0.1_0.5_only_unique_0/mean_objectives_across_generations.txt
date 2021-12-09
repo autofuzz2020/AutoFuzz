@@ -1,0 +1,12 @@
+{'counter': 4, 'has_run': 4, 'time_elapsed': 12.30705451965332, 'num_of_bugs': 3, 'num_of_unique_bugs': 3, 'num_of_interested_unique_bugs': 3, 'bugcounts and unique bug counts': [0, 3, 0, 3], 'mean_objectives_this_generation': [0.8470034415862738, 0.0, 7499.365384007054, 0.0, 0.0, 0.75], 'current_F': array([[9.99922452e+03],
+       [1.00001836e+04],
+       [9.99995199e+03],
+       [1.48945409e+00]])}0;1;2 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 8, 'has_run': 8, 'time_elapsed': 24.851831436157227, 'num_of_bugs': 6, 'num_of_unique_bugs': 6, 'num_of_interested_unique_bugs': 6, 'bugcounts and unique bug counts': [1, 5, 1, 5], 'mean_objectives_this_generation': [0.6326634496443233, 0.0, 4999.736432426534, 11.797133884420504, 0.25, 0.75], 'current_F': array([[ 9.99986176e+03],
+       [ 1.86384291e+00],
+       [ 9.99958971e+03],
+       [-4.70274606e+01]])}7;0;1;2;4;6 objective_weights : [ 1.  1.  1. -1.  0.  0.]
+{'counter': 12, 'has_run': 12, 'time_elapsed': 37.416847467422485, 'num_of_bugs': 9, 'num_of_unique_bugs': 7, 'num_of_interested_unique_bugs': 7, 'bugcounts and unique bug counts': [2, 7, 1, 6], 'mean_objectives_this_generation': [0.7228451282289406, 0.0, 4999.596733281906, 11.797133884420504, 0.25, 0.75], 'current_F': array([[-4.70274606e+01],
+       [ 9.99983016e+03],
+       [ 9.99996471e+03],
+       [ 1.32237178e+00]])}8;0;1;2;4;9;10 objective_weights : [ 1.  1.  1. -1.  0.  0.]

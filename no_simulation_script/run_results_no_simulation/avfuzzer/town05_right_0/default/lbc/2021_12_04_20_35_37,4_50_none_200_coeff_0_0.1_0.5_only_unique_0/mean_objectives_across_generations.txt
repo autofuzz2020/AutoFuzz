@@ -1,0 +1,4 @@
+{'counter': 4, 'has_run': 4, 'time_elapsed': 12.373973369598389, 'num_of_bugs': 3, 'num_of_unique_bugs': 3, 'num_of_interested_unique_bugs': 3, 'bugcounts and unique bug counts': [0, 3, 0, 3], 'mean_objectives_this_generation': [0.8470034415862738, 0.0, 7499.365384007054, 0.0, 0.0, 0.75], 'current_F': array([[9.99922452e+03],
+       [1.00001836e+04],
+       [9.99995199e+03],
+       [1.48945409e+00]])}0;1;2 objective_weights : [ 1.  1.  1. -1.  0.  0.]
