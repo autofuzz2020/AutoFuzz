@@ -1,6 +1,6 @@
 # ADFuzz
 
-The current repo is not actively maintained. Instead, we have moved all the content of AutoFuzz along with new updates to <https://github.com/AIasd/ADFuzz>. Please open issues there or email us for questions/help. Thank yoU!
+The current repo is not actively maintained. Instead, we have moved all the content of AutoFuzz along with new updates to <https://github.com/AIasd/ADFuzz>. Please open issues there or email us for questions/help. Thank you!
 
 ## Introduction
 This repo consists of demos and code accompanying the paper "Neural Network Guided Evolutionary Fuzzing for Finding Traffic Violations of Autonomous Vehicles".
